@@ -1,0 +1,15 @@
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\bin\Debug\net8.0\KursovaRabotaCS20252026.exe
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\bin\Debug\net8.0\KursovaRabotaCS20252026.deps.json
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\bin\Debug\net8.0\KursovaRabotaCS20252026.runtimeconfig.json
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\bin\Debug\net8.0\KursovaRabotaCS20252026.dll
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\bin\Debug\net8.0\KursovaRabotaCS20252026.pdb
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.AssemblyInfoInputs.cache
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.AssemblyInfo.cs
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.csproj.CoreCompileInputs.cache
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.dll
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\refint\KursovaRabotaCS20252026.dll
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.pdb
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.genruntimeconfig.cache
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\ref\KursovaRabotaCS20252026.dll
+C:\Users\ilian\source\repos\KursovaRabotaCS20252026\KursovaRabotaCS20252026\obj\Debug\net8.0\KursovaRabotaCS20252026.sourcelink.json

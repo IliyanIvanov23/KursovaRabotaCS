@@ -1,0 +1,242 @@
+{
+  "Students": [
+    {
+      "Id": 1,
+      "Name": "Iliyan Ivanov",
+      "FacultyNumber": "AI1498",
+      "UserRole": 0,
+      "Password": "admin123"
+    },
+    {
+      "Id": 2,
+      "Name": "Gerasim Velkov",
+      "FacultyNumber": "AI1203",
+      "UserRole": 1,
+      "Password": "gero123"
+    },
+    {
+      "Id": 3,
+      "Name": "Martin Petrov",
+      "FacultyNumber": "AI1321",
+      "UserRole": 1,
+      "Password": "martin123"
+    },
+    {
+      "Id": 4,
+      "Name": "Nikolay Dimitrov",
+      "FacultyNumber": "AI1410",
+      "UserRole": 1,
+      "Password": "nikola123"
+    },
+    {
+      "Id": 5,
+      "Name": "admin",
+      "FacultyNumber": "admin",
+      "UserRole": 0,
+      "Password": "admin"
+    },
+    {
+      "Id": 6,
+      "Name": "Georgi",
+      "FacultyNumber": "II0012",
+      "UserRole": 1,
+      "Password": "123"
+    }
+  ],
+  "Books": [
+    {
+      "Id": 1,
+      "Title": "48 Laws of Power",
+      "Author": "Robert Greene",
+      "IsBorrowed": true
+    },
+    {
+      "Id": 2,
+      "Title": "Demon Slayer Vol.1",
+      "Author": "Koyoharu Gotouge",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 3,
+      "Title": "Demon Slayer Vol.2",
+      "Author": "Koyoharu Gotouge",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 4,
+      "Title": "Clean Code",
+      "Author": "Robert C. Martin",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 5,
+      "Title": "The Pragmatic Programmer",
+      "Author": "Andrew Hunt",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 6,
+      "Title": "Design Patterns",
+      "Author": "Erich Gamma",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 7,
+      "Title": "Introduction to Algorithms",
+      "Author": "Thomas H. Cormen",
+      "IsBorrowed": true
+    },
+    {
+      "Id": 8,
+      "Title": "Refactoring",
+      "Author": "Martin Fowler",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 9,
+      "Title": "The Clean Coder",
+      "Author": "Robert C. Martin",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 10,
+      "Title": "Head First Design Patterns",
+      "Author": "Eric Freeman",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 11,
+      "Title": "You Don\u0027t Know JS",
+      "Author": "Kyle Simpson",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 12,
+      "Title": "C# in Depth",
+      "Author": "Jon Skeet",
+      "IsBorrowed": true
+    },
+    {
+      "Id": 13,
+      "Title": "The Mythical Man-Month",
+      "Author": "Frederick P. Brooks Jr.",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 14,
+      "Title": "Domain-Driven Design",
+      "Author": "Eric Evans",
+      "IsBorrowed": true
+    },
+    {
+      "Id": 15,
+      "Title": "Patterns of Enterprise Application Architecture",
+      "Author": "Martin Fowler",
+      "IsBorrowed": true
+    },
+    {
+      "Id": 16,
+      "Title": "The Art of Computer Programming",
+      "Author": "Donald Knuth",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 17,
+      "Title": "Working Effectively with Legacy Code",
+      "Author": "Michael Feathers",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 18,
+      "Title": "Algorithms",
+      "Author": "Robert Sedgewick",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 19,
+      "Title": "Demon Slayer Vol.3",
+      "Author": "Koyoharu Gotouge",
+      "IsBorrowed": false
+    },
+    {
+      "Id": 20,
+      "Title": "That Time I Got Reincarnated As A Vending Machine",
+      "Author": "Hirukuma",
+      "IsBorrowed": true
+    }
+  ],
+  "Loans": [
+    {
+      "Id": 1,
+      "StudentId": 2,
+      "BookId": 2,
+      "LoanDate": "2026-01-06T15:36:32.6419593Z",
+      "ReturnDate": "2026-01-06T16:02:24.2309073Z",
+      "IsReturned": true
+    },
+    {
+      "Id": 2,
+      "StudentId": 1,
+      "BookId": 1,
+      "LoanDate": "2026-01-06T15:55:46.9075029Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 3,
+      "StudentId": 2,
+      "BookId": 9,
+      "LoanDate": "2026-01-06T16:01:58.816635Z",
+      "ReturnDate": "2026-01-06T16:02:35.5497291Z",
+      "IsReturned": true
+    },
+    {
+      "Id": 4,
+      "StudentId": 2,
+      "BookId": 15,
+      "LoanDate": "2026-01-06T16:29:16.3560227Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 5,
+      "StudentId": 4,
+      "BookId": 14,
+      "LoanDate": "2026-01-06T16:29:54.0176034Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 6,
+      "StudentId": 1,
+      "BookId": 20,
+      "LoanDate": "2026-01-06T16:39:41.9523414Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 7,
+      "StudentId": 4,
+      "BookId": 12,
+      "LoanDate": "2026-01-06T16:39:50.1171012Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 8,
+      "StudentId": 3,
+      "BookId": 7,
+      "LoanDate": "2026-01-06T16:40:18.1329247Z",
+      "ReturnDate": null,
+      "IsReturned": false
+    },
+    {
+      "Id": 9,
+      "StudentId": 3,
+      "BookId": 3,
+      "LoanDate": "2026-01-06T16:40:38.5487834Z",
+      "ReturnDate": "2026-01-06T16:45:15.3081408Z",
+      "IsReturned": true
+    }
+  ]
+}
